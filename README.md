@@ -1,4 +1,4 @@
-# Transformers: Uma Exploração Matemática e Aplicações em Processamento de Linguagem Natural
+# Transformers em Processamento de Linguagem Natural: Arquitetura, Mecanismos e Aplicações
 
 ## 1. Introdução
 
